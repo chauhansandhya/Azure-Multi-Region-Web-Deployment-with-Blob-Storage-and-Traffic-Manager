@@ -1,0 +1,1 @@
+# Azure-Multi-Region-Web-Deployment-with-Blob-Storage-and-Traffic-Manager
